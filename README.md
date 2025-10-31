@@ -1,12 +1,13 @@
 # Priscille_Moe-Pouaty
 Bienvenue sur mon portfolio GitHub.  
-Je suis **Natacha NJONGWA YEPNGA**, Data Analyst & Data Scientist, spécialisée en **SQL, Python, BI et Data Engineering**.
+Je suis **Priscille**, passionnée par la data, j’aime transformer les données en insights clairs et utiles pour guider la prise de décision.
 
 ---
 
 ## À propos de moi
+Depuis mon plus jeune âge, j’ai toujours été fascinée par les chiffres. Cette passion m’a naturellement conduite en prépa Maths-Physique, où j’ai appris à analyser et résoudre des problèmes complexes.
 
-- Formation : PREPA Maths-Physique → École d’ingénieur informatique → Master Analyse de données (Bac+5) → POEC Data Analyst
+J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et peut aider à prendre de meilleures décisions. Aujourd’hui, je transforme des données brutes en insights clairs et utiles pour accompagner les équipes métiers dans leurs projets.
 - Expertise : Analyse de données, reporting, dashboards, ETL, Data Quality, visualisation et modélisation
 - Langues / outils : SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Power BI, Tableau, Git/GitHub
 
@@ -74,6 +75,8 @@ Je suis **Natacha NJONGWA YEPNGA**, Data Analyst & Data Scientist, spécialisée
 
 ## Projets / Réalisations
 
+-Détection de fraude sur transactions bancaires — Analyse et préparation à un modèle ML avec PostgreSQL
+
 ### Analyse de données et BI
 - Création d’un **dashboard Power BI** pour suivi des KPI financiers  
 - Automatisation des rapports hebdomadaires avec **SQL et Excel**  
@@ -84,9 +87,6 @@ Je suis **Natacha NJONGWA YEPNGA**, Data Analyst & Data Scientist, spécialisée
 - Analyse exploratoire avec Pandas et visualisation avec Matplotlib/Seaborn  
 - Mise en place de pipelines d’ETL simples
 
-### Portfolio GitHub
-- Tous les projets et scripts disponibles sur [mon GitHub](https://github.com/natacha-njongwa-yepnga)  
-- Organisation claire : `sql/`, `notebooks/`, `dashboards/`, `scripts/`
 
 ---
 
@@ -101,9 +101,7 @@ Je suis **Natacha NJONGWA YEPNGA**, Data Analyst & Data Scientist, spécialisée
 
 ## Contact
 
-- **GitHub** : [natacha-njongwa-yepnga](https://github.com/natacha-njongwa-yepnga)  
-- **LinkedIn** : [linkedin.com/in/natacha-njongwa-yepnga](https://www.linkedin.com/in/natacha-njongwa-yepnga)  
-- **Email** : natacha.njongwa.yepnga@lda-advisory.com  
+- **Email** : moepriscille900@gmail.com
 
 ---
 
