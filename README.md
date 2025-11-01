@@ -22,7 +22,7 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 
 ## Projets / Réalisations
 
--Détection de fraude sur transactions bancaires — Analyse et préparation à un modèle ML avec PostgreSQL
+- [Détection de fraude sur transactions bancaires](https://moepouaty.github.io/Fraude-transactions-bancaires/)
 
 ---
 
