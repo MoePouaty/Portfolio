@@ -87,8 +87,9 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 
 - **POEC Data Analyst**
 - **Master Analyse de données** (Bac+5)  
-- **École d’ingénieur informatique** (Bac+3)  
-- **PREPA Maths-Physique** (Bac+2)  
+- **École d’ingénieur informatique** (Bac+3)
+- **PREPA Maths-Physique** (Bac+2)
+  
 ---
 
 ## Contact
