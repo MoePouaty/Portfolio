@@ -11,6 +11,10 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 - Expertise : Analyse de données, reporting, dashboards, ETL, Data Quality, visualisation et modélisation
 - Langues / outils : SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Power BI, Tableau, Git/GitHub
 
+## Projets / Réalisations
+
+-Détection de fraude sur transactions bancaires — Analyse et préparation à un modèle ML avec PostgreSQL
+
 ---
 
 ## Compétences techniques
@@ -44,9 +48,7 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 - GitHub, Visual Studio Code
 
 ---
-## Projets / Réalisations
 
--Détection de fraude sur transactions bancaires — Analyse et préparation à un modèle ML avec PostgreSQL
 
 ## Expériences professionnelles
 
@@ -69,19 +71,6 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 - Automatisation de reporting (SQL / Excel / Python)  
 - Data quality & contrôle des sources de données  
 - Documentation des process data
-
----
-
-### Analyse de données et BI
-- Création d’un **dashboard Power BI** pour suivi des KPI financiers  
-- Automatisation des rapports hebdomadaires avec **SQL et Excel**  
-- Analyse exploratoire et visualisation des ventes et performances produit
-
-### Python & Data Analysis
-- Scripts Python pour **nettoyage et transformation de données**  
-- Analyse exploratoire avec Pandas et visualisation avec Matplotlib/Seaborn  
-- Mise en place de pipelines d’ETL simples
-
 
 ---
 
