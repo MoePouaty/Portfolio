@@ -1,5 +1,12 @@
+<div style="display:flex; align-items:center; gap:16px;">
+  <img src="/img/Photocvperfect.jpg" alt="Priscille" width="120" style="border-radius:10px;">
+  <div>
+      Priscille Moe-Pouaty 
+  </div>
+</div>
+
 Bienvenue sur mon portfolio GitHub.  
-Je suis **Priscille**, passionnée par la data, j’aime transformer les données en insights clairs et utiles pour guider la prise de décision.
+Je suis passionnée par la data, j’aime transformer les données en insights clairs et utiles pour guider la prise de décision.
 
 ---
 
