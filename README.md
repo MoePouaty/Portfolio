@@ -32,24 +32,24 @@ J’ai découvert le pouvoir de la data : chaque chiffre raconte une histoire et
 - Collecte, nettoyage et préparation des données
 - Data cleaning / manipulation
 - ETL / pipelines simples
-- Automatisation de reporting (SQL / Excel / Python)
+- Reporting (SQL / Excel / Python)
 - Data quality & contrôle des sources de données
 - Notebooks (Jupyter)
 
 **Bases de données & SQL :**
 - PostgreSQL, MySQL, BigQuery
-- Requêtes SQL avancées, automatisation et optimisation
+- Requêtes SQL avancées
 - Structuration et enrichissement des bases de données
 
 **Visualisation & dashboards :**
-- Power BI, Tableau (optionnel)
+- Power BI (Dax), Tableau
 - Excel (TCD, formules, reporting)
 - Dashboarding & KPI
 - Data storytelling & restitution aux équipes métiers
 
 **Python & programmation :**
 - Pandas, NumPy, Matplotlib, Seaborn
-- Scripts ETL, automatisation de tâches
+- Scripts ETL simples
 - Notebooks pour analyse exploratoire et reporting
 
 **Développement web & outils dev :**
